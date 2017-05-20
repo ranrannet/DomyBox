@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/PbseduWeb/.idea/PbseduWeb.iml" filepath="$USER_HOME$/PycharmProjects/PbseduWeb/.idea/PbseduWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../auto_http_api/.idea/auto_http34_test.iml" filepath="$PROJECT_DIR$/../auto_http_api/.idea/auto_http34_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../elaticSearchCreate/.idea/elaticSearchCreate.iml" filepath="$PROJECT_DIR$/../elaticSearchCreate/.idea/elaticSearchCreate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learningPython.iml" filepath="$PROJECT_DIR$/.idea/learningPython.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/seleniumPython/.idea/seleniumPython.iml" filepath="$USER_HOME$/PycharmProjects/seleniumPython/.idea/seleniumPython.iml" />
+    </modules>
+  </component>
+</project>

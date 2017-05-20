@@ -1,0 +1,57 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ThemeRelative.vo" />
+          <option value="ThemeRelative.HttpRequest" />
+          <option value="ThemeRelative.GetFavorTheme" />
+          <option value="HomeRecommend.*" />
+          <option value="CourseRelative.urllib2" />
+          <option value="CourseRelative.total_tim" />
+          <option value="CourseRelative.obj_detail" />
+          <option value="util.HttpRequest.urllib2" />
+          <option value="urllib.parse" />
+          <option value="util.HttpRequest.parse" />
+          <option value="test_mathfunc.ThemeRelative" />
+          <option value="TestCase.CourseRelative.config" />
+          <option value="TestCase.CourseRelative.HttpRequest" />
+          <option value="case.Interface_main.UserAction" />
+          <option value="case.Interface_main.CourseWareRelative" />
+          <option value="case.Interface_main.CourseRelative" />
+          <option value="case.Interface_main.HomeRecommend" />
+          <option value="Interface_main.UserAction" />
+          <option value="case.CourseRelative.config" />
+          <option value="aaa.*" />
+          <option value="selenium.webdriver.support.ui.*" />
+          <option value="StringIO" />
+          <option value="urllib2" />
+          <option value="send_email.reload" />
+          <option value="test_suite.test_search" />
+          <option value="test_course.config" />
+          <option value="test_detail.config" />
+          <option value="test_course.course_detail_vo" />
+          <option value="test_course.test_detail" />
+          <option value="MySQLdb" />
+          <option value="BatchImportCourse" />
+          <option value="data.BatchImportSchool.getMajorList" />
+          <option value="data.importIndex.importIndex" />
+          <option value="connectdb.test_sql.IndentityVo" />
+          <option value="connectdb.test_sql.connectdb" />
+          <option value="connectdb.test_sql.*" />
+          <option value="case.user_has_indentity.indentity" />
+          <option value="case.indentity.qr" />
+          <option value="case.course.CourseRelative" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
